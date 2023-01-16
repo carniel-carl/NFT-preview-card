@@ -124,7 +124,6 @@ a:hover, a:active {
     display: flex;
     align-items: center;
     gap: 1rem;
-    /* margin-bottom: 1rem; */
 }
 
 .footer img {
