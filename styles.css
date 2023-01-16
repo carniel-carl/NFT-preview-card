@@ -41,7 +41,7 @@ img {
 
 p {
     color: var(--SOFT-BLUE);
-    font-size: .9em;
+    font-size: 1.1rem;
     font-weight: 300;
 }
 
@@ -87,10 +87,8 @@ a:hover, a:active {
     cursor: pointer;
 }
 
-
-
-
 .card h3 {
+    font-size: 1.4rem;
     margin: var(--MARGIN-BT) 0 1.2rem;
 }
 
@@ -126,6 +124,7 @@ a:hover, a:active {
     display: flex;
     align-items: center;
     gap: 1rem;
+    margin-bottom: 1rem;
 }
 
 .footer img {
