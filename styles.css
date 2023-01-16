@@ -89,7 +89,7 @@ a:hover, a:active {
 
 .card h3 {
     font-size: 1.4rem;
-    margin: var(--MARGIN-BT) 0 1.2rem;
+    margin: 1.2rem 0;
 }
 
 .card p {
@@ -124,7 +124,7 @@ a:hover, a:active {
     display: flex;
     align-items: center;
     gap: 1rem;
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
 }
 
 .footer img {
